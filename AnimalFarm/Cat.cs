@@ -8,6 +8,7 @@ namespace AnimalFarm {
         ISpeak speak;
 
         public void Speak() {
+            Console.Write("The cat says ");
             speak.Speak();
         }
 
