@@ -3,7 +3,7 @@ using AnimalFarm.Sounds;
 
 namespace AnimalFarm {
 
-    class Program {
+    class Program { 
         static void Main(string[] args) {
 
             var cow = new Cow(new Moo());
